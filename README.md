@@ -23,9 +23,9 @@ NEW FEATURES ADDED:
 {
    "CONFIG": {
       "BOT_INFO": {
-         "PREFIX": ".",
+         "PREFIX": "/",
          "ADMIN_ID": [
-            "100089164803882" - CHANGE THIS ID TO YOUR FACEBOOK ID OR JUST INSERT NEW ID.
+            "100090460245018" - CHANGE THIS ID TO YOUR FACEBOOK ID OR JUST INSERT NEW ID.
          ],
          "USER-AGENT": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
          "SET_TYPING": "FALSE", - CHANGE THIS TO TRUE IF YOU WANT TO TURN ON TYPING INDICATOR (ANIMATION)
@@ -66,7 +66,7 @@ NEW FEATURES ADDED:
 ```
 # ❤ HIGHLY CONTRIBUTE TO THIS PROJECT
 ```
-Special Thanks to Kenlie Jugarap and Choru Tiktoker for helping me to this project!
+Special Thanks to Justine Beloira and Choru Tiktoker for helping me to this project!
 ```
 
 # 📰 HOW TO SETUP
