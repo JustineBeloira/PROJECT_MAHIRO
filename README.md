@@ -72,4 +72,4 @@ Special Thanks to Justine Beloira and Choru Tiktoker for helping me to this proj
 # 📰 HOW TO SETUP
 
 ```python
-git clone https://github.com/MahiroDev091/PROJECT_MAHIRO; cd PROJECT_MAHIRO; pip install -r requirements.txt; python3 app.py
+git clone https://github.com/JustineBeloira/PROJECT_MAHIRO.git; cd PROJECT_MAHIRO; pip install -r requirements.txt; python3 app.py
