@@ -6,9 +6,8 @@ FACEBOOK MESSENGER BOTPACK DEVELOPED BY MAHIRO CHAN INSPIRED BY MIRAI NODEJS
 - Now you can add your own commands.
 - Version 1.1.3 [NEW VERSION]
 
-NEW FEATURES ADDED:
-- New configuration features added!
-- New command format (Now you can use all features of __[fbchat](https://fbchat.readthedocs.io/en/stable/)__ without having any issues). 
+OWNER:
+__[Add/Follow](https://www.facebook.com/profile.php?id=100090460245018)__ without having any issues). 
 - Cooldown issue fixed!
 - Database for currencies added!
 - New UI Added!
@@ -44,7 +43,7 @@ NEW FEATURES ADDED:
 # 💥 HOW TO USE
 
 ```python
-𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝙼𝙰𝙷𝙸𝚁𝙾 - AVAILABLE COMMANDS
+Project Justine  - AVAILABLE COMMANDS
 ╭─❍
 ➠ .ai: ask anything
 ╰───────────⟡
