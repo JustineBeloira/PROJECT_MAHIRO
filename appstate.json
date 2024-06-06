@@ -1,0 +1,47 @@
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100094779346700%22%3A%22Xwqi7kaX%22%2C%2261560537448158%22%3A%22YvGKN9pA%22%2C%22100087646465792%22%3A%22yTIZBgw7%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-06-06T17:11:44.293Z",
+        "lastAccessed": "2024-06-06T17:11:44.297Z"
+    },
+    {
+        "key": "sb",
+        "value": "-AJBZnw8md2EAy30y3YmlTBC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-06T17:11:44.297Z",
+        "lastAccessed": "2024-06-06T17:11:44.297Z"
+    },
+    {
+        "key": "datr",
+        "value": "heBhZqES6mxkJ0jAGk2fHQUP",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-06T17:11:44.297Z",
+        "lastAccessed": "2024-06-06T17:11:44.297Z"
+    },
+    {
+        "key": "wd",
+        "value": "409x764",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-06T17:11:44.297Z",
+        "lastAccessed": "2024-06-06T17:11:44.297Z"
+    },
+    {
+        "key": "fr",
+        "value": "0Tdp86WtFYLuiMKXK..BmYeCF..AAA.0.0.BmYeCH.AWWUCIAdj-o",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-06T17:11:44.297Z",
+        "lastAccessed": "2024-06-06T17:11:44.297Z"
+    }
+]
